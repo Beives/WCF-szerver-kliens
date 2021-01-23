@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorWCF_Szerver", "BorWCF_Szerver\BorWCF_Szerver.csproj", "{F3E82000-FC33-4C51-A75A-34EB6E5880E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorWCF_Host", "BorWCF_Host\BorWCF_Host.csproj", "{7ADAB7EB-08BA-4CD4-9663-29EEF95E5C39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3E82000-FC33-4C51-A75A-34EB6E5880E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E82000-FC33-4C51-A75A-34EB6E5880E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E82000-FC33-4C51-A75A-34EB6E5880E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E82000-FC33-4C51-A75A-34EB6E5880E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ADAB7EB-08BA-4CD4-9663-29EEF95E5C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADAB7EB-08BA-4CD4-9663-29EEF95E5C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADAB7EB-08BA-4CD4-9663-29EEF95E5C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADAB7EB-08BA-4CD4-9663-29EEF95E5C39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FEE6B81-9092-4744-B98C-5435DFE66A8C}
+	EndGlobalSection
+EndGlobal

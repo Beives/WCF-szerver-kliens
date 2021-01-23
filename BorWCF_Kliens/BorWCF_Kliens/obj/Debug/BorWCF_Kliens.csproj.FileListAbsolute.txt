@@ -1,0 +1,10 @@
+C:\Users\beive\Desktop\Egyetem\Harmadik\SzOP\Borok\BorWCF_Kliens\BorWCF_Kliens\bin\Debug\BorWCF_Kliens.exe.config
+C:\Users\beive\Desktop\Egyetem\Harmadik\SzOP\Borok\BorWCF_Kliens\BorWCF_Kliens\bin\Debug\BorWCF_Kliens.exe
+C:\Users\beive\Desktop\Egyetem\Harmadik\SzOP\Borok\BorWCF_Kliens\BorWCF_Kliens\bin\Debug\BorWCF_Kliens.pdb
+C:\Users\beive\Desktop\Egyetem\Harmadik\SzOP\Borok\BorWCF_Kliens\BorWCF_Kliens\obj\Debug\BorWCF_Kliens.csprojAssemblyReference.cache
+C:\Users\beive\Desktop\Egyetem\Harmadik\SzOP\Borok\BorWCF_Kliens\BorWCF_Kliens\obj\Debug\BorWCF_Kliens.Form1.resources
+C:\Users\beive\Desktop\Egyetem\Harmadik\SzOP\Borok\BorWCF_Kliens\BorWCF_Kliens\obj\Debug\BorWCF_Kliens.Properties.Resources.resources
+C:\Users\beive\Desktop\Egyetem\Harmadik\SzOP\Borok\BorWCF_Kliens\BorWCF_Kliens\obj\Debug\BorWCF_Kliens.csproj.GenerateResource.cache
+C:\Users\beive\Desktop\Egyetem\Harmadik\SzOP\Borok\BorWCF_Kliens\BorWCF_Kliens\obj\Debug\BorWCF_Kliens.csproj.CoreCompileInputs.cache
+C:\Users\beive\Desktop\Egyetem\Harmadik\SzOP\Borok\BorWCF_Kliens\BorWCF_Kliens\obj\Debug\BorWCF_Kliens.exe
+C:\Users\beive\Desktop\Egyetem\Harmadik\SzOP\Borok\BorWCF_Kliens\BorWCF_Kliens\obj\Debug\BorWCF_Kliens.pdb
